@@ -3,7 +3,7 @@ Este módulo é dedicado à programação no HTML. Por meio do EJS, o JavaScript
 
 EJS é uma linguagem de modelagem para criação de páginas HTML utilizando JS.
 
-Para estilização das páginas foi utilizada o Bootstrap.
+Foi utilizada o Bootstrap para estilização das páginas.
 
 
 ![node-EJS](https://user-images.githubusercontent.com/82118386/175967812-9d023add-946e-4eb0-86ff-052cc28d6a38.png)
